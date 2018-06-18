@@ -13,7 +13,7 @@ public class Insights_lib {
 	//コンストラクタ
 	public Insights_lib(){
 		service = new PersonalityInsights("2016-10-19");
-	    service.setUsernameAndPassword("7f8d5e94-8d31-4c55-85c8-a2bbf3e95acc", "MmL8X7XRYO0c");
+	    service.setUsernameAndPassword("J16014", "J16014");
 	}
 
 	public Profile getProfile(String text){
